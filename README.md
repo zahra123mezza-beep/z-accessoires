@@ -39,7 +39,7 @@
             align-items: center;
             text-align: center;
             /* Applying Image 1 as the background */
-            background-image: url('@_z.accessories_ - 1.png');
+            background-image: url('IMAGE_5950.jpeg');
             background-size: cover;
             background-position: center;
             color: var(--text-color);
